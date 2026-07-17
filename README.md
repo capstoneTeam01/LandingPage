@@ -23,3 +23,4 @@ Open `http://localhost:4173`.
 - Prototype → demo video section
 - GitHub → Capstone Team 01 org
 - Contact form opens the user’s email client (`fixbee.team@gmail.com` in `script.js`)
+# LandingPage
